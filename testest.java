@@ -15,7 +15,7 @@ public class testest
      */
     public testest()
     {
-        // Instanzvariable initialisieren
+        // Ich fick auf Dolce und gabbana ja gib mir gib mir balenciaga ja balenciaga gib mir balenciaga balenciaga gib mir balenciaga
         x = 0;
     }
 
