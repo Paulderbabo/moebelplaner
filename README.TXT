@@ -1,12 +1,61 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Keiner gönnt mir meinen Erfolg, ja
+Leider hab' ich's so gewollt, ja
+Scheiß auf Dolce & Gabbana, ja
+Gib mir, gib mir Balenciaga, ja
+Balenciaga, gib mir Balenciaga
+Balenciaga, gib mir Balenciaga
+Keiner gönnt mir meinen Erfolg
+Leider hab' ich's so gewollt, ja
+Keine Schule, kein Abi
+Ja, trotzdem hatt' ich gute Quali
+Ja, war ein Dealer schon mit elf
+Ja, gib mir mein Cash
+Sie machen, was ich sag', hustel' jeden Tag
+Lebe wie ein Star, chille grade hart
+Auf Barbados
+Sie macht sich nackig für das Yayo
+Dicker Arsch, so wie J.Lo
+Acker' jeden Tag, acker' jeden Tag
+Echte Knete, kein Play-Doh, nein
+Sie wollen mir mein Brot stehlen, ja
+Sie wollen sich jetzt hochziehen, ja
+Denn sie lassen keine Ruhe
+Mache die Tür jetzt zu
+Dicka, bin wieder auf Tour
+Ja, Stay High
+Keiner gönnt mir meinen Erfolg, ja
+Leider hab' ich's so gewollt, ja
+Scheiß auf Dolce & Gabbana, ja
+Gib mir, gib mir Balenciaga, ja
+Balenciaga, gib mir Balenciaga
+Balenciaga, gib mir Balenciaga
+Keiner gönnt mir meinen Erfolg
+Leider hab' ich's so gewollt, ja
+Dieses Album euer Untergang
+Ihr seid höchstens meine Untertanen
+Führ' das Leben eines Kaisers
+Ja, trag' nur Designer
+Ja, Patek Philippe, ja
+Off-White, Supreme, ja
+Trage die Krone, verbrenne die Kohle
+Ja, gib mir Benzin, ja
+Ihr seid mir egal
+Denke nur an meine Zahlen
+Tret' ins Pedal
+Drei Alben im Jahr
+Shaquille O'Neal, ja
+Zu viel, zu viel Codein, ja
+Gesponsert von Sprite, ja
+Nike, ja
+Stay High
+Nein, wir machen uns nie wieder klein
+Ey, ja, ich fick' euren Kuchen
+American Pie
+Keiner gönnt mir meinen Erfolg, ja
+Leider hab' ich's so gewollt, ja
+Scheiß auf Dolce & Gabbana, ja
+Gib mir, gib mir Balenciaga, ja (Ufo361)
+Balenciaga, gib mir Balenciaga
+Balenciaga, gib mir Balenciaga
+Keiner gönnt mir meinen Erfolg
+Leider hab' ich's so gewollt, ja
